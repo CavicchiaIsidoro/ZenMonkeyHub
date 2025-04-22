@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5AF241-54B5-41F8-81DF-210C40F27006}|ZenMonkey.Application\\ZenMonkey.Application.csproj|c:\\source\\repos\\zenmonkeyhub\\zenmonkey.hub\\zenmonkey.application\\telegram\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5AF241-54B5-41F8-81DF-210C40F27006}|ZenMonkey.Application\\ZenMonkey.Application.csproj|solutionrelative:zenmonkey.application\\telegram\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786DED40-C7CE-484B-951B-C64989FB5175}|ZenMonkey.Hub.Api\\ZenMonkey.Hub.Api.csproj|c:\\source\\repos\\zenmonkeyhub\\zenmonkey.hub\\zenmonkey.hub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786DED40-C7CE-484B-951B-C64989FB5175}|ZenMonkey.Hub.Api\\ZenMonkey.Hub.Api.csproj|solutionrelative:zenmonkey.hub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5AF241-54B5-41F8-81DF-210C40F27006}|ZenMonkey.Application\\ZenMonkey.Application.csproj|c:\\source\\repos\\zenmonkeyhub\\zenmonkey.hub\\zenmonkey.application\\trades\\services\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5AF241-54B5-41F8-81DF-210C40F27006}|ZenMonkey.Application\\ZenMonkey.Application.csproj|solutionrelative:zenmonkey.application\\trades\\services\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14A16-D507-4B73-B590-5905BC904E9C}|ZenMonkey.Hub.Infrastructure\\ZenMonkey.Hub.Infrastructure.csproj|c:\\source\\repos\\zenmonkeyhub\\zenmonkey.hub\\zenmonkey.hub.infrastructure\\geckoterminal\\repository\\traderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF14A16-D507-4B73-B590-5905BC904E9C}|ZenMonkey.Hub.Infrastructure\\ZenMonkey.Hub.Infrastructure.csproj|solutionrelative:zenmonkey.hub.infrastructure\\geckoterminal\\repository\\traderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14A16-D507-4B73-B590-5905BC904E9C}|ZenMonkey.Hub.Infrastructure\\ZenMonkey.Hub.Infrastructure.csproj|c:\\source\\repos\\zenmonkeyhub\\zenmonkey.hub\\zenmonkey.hub.infrastructure\\logger\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF14A16-D507-4B73-B590-5905BC904E9C}|ZenMonkey.Hub.Infrastructure\\ZenMonkey.Hub.Infrastructure.csproj|solutionrelative:zenmonkey.hub.infrastructure\\logger\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786DED40-C7CE-484B-951B-C64989FB5175}|ZenMonkey.Hub.Api\\ZenMonkey.Hub.Api.csproj|c:\\source\\repos\\zenmonkeyhub\\zenmonkey.hub\\zenmonkey.hub.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{786DED40-C7CE-484B-951B-C64989FB5175}|ZenMonkey.Hub.Api\\ZenMonkey.Hub.Api.csproj|solutionrelative:zenmonkey.hub.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786DED40-C7CE-484B-951B-C64989FB5175}|ZenMonkey.Hub.Api\\ZenMonkey.Hub.Api.csproj|c:\\source\\repos\\zenmonkeyhub\\zenmonkey.hub\\zenmonkey.hub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{786DED40-C7CE-484B-951B-C64989FB5175}|ZenMonkey.Hub.Api\\ZenMonkey.Hub.Api.csproj|solutionrelative:zenmonkey.hub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14A16-D507-4B73-B590-5905BC904E9C}|ZenMonkey.Hub.Infrastructure\\ZenMonkey.Hub.Infrastructure.csproj|c:\\source\\repos\\zenmonkeyhub\\zenmonkey.hub\\zenmonkey.hub.infrastructure\\logger\\fileloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF14A16-D507-4B73-B590-5905BC904E9C}|ZenMonkey.Hub.Infrastructure\\ZenMonkey.Hub.Infrastructure.csproj|solutionrelative:zenmonkey.hub.infrastructure\\logger\\fileloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +67,103 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradeService.cs",
+              "DocumentMoniker": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Application\\Trades\\Services\\TradeService.cs",
+              "RelativeDocumentMoniker": "ZenMonkey.Application\\Trades\\Services\\TradeService.cs",
+              "ToolTip": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Application\\Trades\\Services\\TradeService.cs",
+              "RelativeToolTip": "ZenMonkey.Application\\Trades\\Services\\TradeService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:26:56.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelegramService.cs",
+              "DocumentMoniker": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Application\\Telegram\\Services\\TelegramService.cs",
+              "RelativeDocumentMoniker": "ZenMonkey.Application\\Telegram\\Services\\TelegramService.cs",
+              "ToolTip": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Application\\Telegram\\Services\\TelegramService.cs",
+              "RelativeToolTip": "ZenMonkey.Application\\Telegram\\Services\\TelegramService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwD8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:26:49.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileLoggerProvider.cs",
+              "DocumentMoniker": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Infrastructure\\Logger\\FileLoggerProvider.cs",
+              "RelativeDocumentMoniker": "ZenMonkey.Hub.Infrastructure\\Logger\\FileLoggerProvider.cs",
+              "ToolTip": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Infrastructure\\Logger\\FileLoggerProvider.cs",
+              "RelativeToolTip": "ZenMonkey.Hub.Infrastructure\\Logger\\FileLoggerProvider.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:11:00.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TradeRepository.cs",
+              "DocumentMoniker": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Infrastructure\\GeckoTerminal\\Repository\\TradeRepository.cs",
+              "RelativeDocumentMoniker": "ZenMonkey.Hub.Infrastructure\\GeckoTerminal\\Repository\\TradeRepository.cs",
+              "ToolTip": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Infrastructure\\GeckoTerminal\\Repository\\TradeRepository.cs",
+              "RelativeToolTip": "ZenMonkey.Hub.Infrastructure\\GeckoTerminal\\Repository\\TradeRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T16:00:18.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ZenMonkey.Hub.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Api\\appsettings.Development.json",
+              "RelativeToolTip": "ZenMonkey.Hub.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T15:39:43.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ZenMonkey.Hub.Api\\Program.cs",
+              "ToolTip": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Api\\Program.cs",
+              "RelativeToolTip": "ZenMonkey.Hub.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:36:55.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ZenMonkey.Hub.Api\\appsettings.json",
+              "ToolTip": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Api\\appsettings.json",
+              "RelativeToolTip": "ZenMonkey.Hub.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T15:35:40.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Infrastructure\\Logger\\FileLogger.cs",
+              "RelativeDocumentMoniker": "ZenMonkey.Hub.Infrastructure\\Logger\\FileLogger.cs",
+              "ToolTip": "C:\\source\\repos\\ZenMonkeyHub\\ZenMonkey.Hub\\ZenMonkey.Hub.Infrastructure\\Logger\\FileLogger.cs",
+              "RelativeToolTip": "ZenMonkey.Hub.Infrastructure\\Logger\\FileLogger.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:26:24.307Z"
             }
           ]
         }

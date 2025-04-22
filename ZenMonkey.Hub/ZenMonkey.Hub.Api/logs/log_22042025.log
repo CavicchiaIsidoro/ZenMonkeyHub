@@ -1,0 +1,45 @@
+[22/04/2025 18:25:43] Information Now listening on: https://localhost:7045 
+[22/04/2025 18:25:57] Information Now listening on: http://localhost:5066 
+[22/04/2025 18:25:58] Information Application started. Press Ctrl+C to shut down. 
+[22/04/2025 18:26:00] Information Hosting environment: Development 
+[22/04/2025 18:26:00] Information Content root path: C:\source\repos\ZenMonkeyHub\ZenMonkey.Hub\ZenMonkey.Hub.Api 
+[22/04/2025 18:26:13] Information Get all trades begin 
+[22/04/2025 18:29:22] Information Now listening on: https://localhost:7045 
+[22/04/2025 18:29:22] Information Now listening on: http://localhost:5066 
+[22/04/2025 18:29:22] Information Application started. Press Ctrl+C to shut down. 
+[22/04/2025 18:29:22] Information Hosting environment: Development 
+[22/04/2025 18:29:22] Information Content root path: C:\source\repos\ZenMonkeyHub\ZenMonkey.Hub\ZenMonkey.Hub.Api 
+[22/04/2025 18:29:26] Information Get all trades begin 
+[22/04/2025 18:30:32] Information Now listening on: https://localhost:7045 
+[22/04/2025 18:30:32] Information Now listening on: http://localhost:5066 
+[22/04/2025 18:30:32] Information Application started. Press Ctrl+C to shut down. 
+[22/04/2025 18:30:32] Information Hosting environment: Development 
+[22/04/2025 18:30:32] Information Content root path: C:\source\repos\ZenMonkeyHub\ZenMonkey.Hub\ZenMonkey.Hub.Api 
+[22/04/2025 18:30:37] Information Get all trades begin 
+[22/04/2025 18:30:37] Information Get all trades succed 
+[22/04/2025 18:54:11] Information Now listening on: https://localhost:7045 
+[22/04/2025 18:54:11] Information Now listening on: http://localhost:5066 
+[22/04/2025 18:54:11] Information Application started. Press Ctrl+C to shut down. 
+[22/04/2025 18:54:11] Information Hosting environment: Development 
+[22/04/2025 18:54:11] Information Content root path: C:\source\repos\ZenMonkeyHub\ZenMonkey.Hub\ZenMonkey.Hub.Api 
+[22/04/2025 18:54:27] Information Send message to telegram 
+[22/04/2025 18:54:27] Error System.Net.Http.HttpRequestException: The proxy tunnel request to proxy 'http://ipv4.109.89.22.206.webdefence.global.blackspider.com/' failed with status code '403'."
+   at System.Net.Http.HttpConnectionPool.EstablishProxyTunnelAsync(Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionWithTelemetryAsync(HttpRequestMessage request, HttpConnectionPool pool, Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Telegram.Bot.TelegramBotClient.SendRequest[TResponse](IRequest`1 request, CancellationToken cancellationToken) 
+[22/04/2025 19:28:39] Information Get all trades begin 
+[22/04/2025 19:28:39] Information Now listening on: https://localhost:7045 
+[22/04/2025 19:28:39] Information Now listening on: http://localhost:5066 
+[22/04/2025 19:28:39] Information Application started. Press Ctrl+C to shut down. 
+[22/04/2025 19:28:39] Information Hosting environment: Development 
+[22/04/2025 19:28:39] Information Content root path: C:\source\repos\ZenMonkeyHub\ZenMonkey.Hub\ZenMonkey.Hub.Api 
+[22/04/2025 19:29:00] Error Une tentative de connexion a échoué car le parti connecté n’a pas répondu convenablement au-delà d’une certaine durée ou une connexion établie a échoué car l’hôte de connexion n’a pas répondu. (ipv4.109.89.22.206.webdefence.global.blackspider.com:80)
+Une tentative de connexion a échoué car le parti connecté n’a pas répondu convenablement au-delà d’une certaine durée ou une connexion établie a échoué car l’hôte de connexion n’a pas répondu. 
